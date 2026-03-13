@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1035984614066",
+    "project_id": "walky-423f7",
+    "storage_bucket": "walky-423f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035984614066:android:af35882f8926e38b8a4fab",
+        "android_client_info": {
+          "package_name": "com.example.walky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035984614066-tu6sr0ra0jlu09kq1o7hco1c5sg17n4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.walky",
+            "certificate_hash": "95314bcaf8ffd1c211f1c2f015e67152b468cb3a"
+          }
+        },
+        {
+          "client_id": "1035984614066-0hkb7pfbbecdg5rqg3jrveg1vj0mfr2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDck7XaiqJRZKF7cmnBTjmiJrvxVGosrZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035984614066-0hkb7pfbbecdg5rqg3jrveg1vj0mfr2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035984614066-sshl4e4v1pjtlm00m29osa8j41nsfdc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.walky"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
